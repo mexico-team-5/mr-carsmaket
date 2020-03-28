@@ -1,3 +1,5 @@
+Hola a todos! Este es el proyecto de KAVAK.
+
 Registro administrativo de la industria automotriz de vehículos ligeros
 El Registro Administrativo de la Industria Automotriz de Vehículos Ligeros ofrece datos mensuales por empresa referentes a la venta, producción y exportación de las unidades vehiculares nuevas, sin especificar valores monetarios.
 
