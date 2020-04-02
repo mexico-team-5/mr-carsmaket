@@ -2,5 +2,5 @@ This project is the EDA (Exploratory Data Analysis) of the Registro administrati
 
 The objectives are:
 - Find if there is seasonality of the number of sells in a year.
-- Which are the models of the most selling cars.
-- Whiche are the brands with the most selling cars.
+- Which are the models of the most selling cars per year.
+- Whiche are the brands with the most selling cars per year.
